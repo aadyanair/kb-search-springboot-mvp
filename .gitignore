@@ -1,0 +1,12 @@
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.log
+*.iml
+.idea/
+.vscode/
+
+# Secrets
+.env
